@@ -14,11 +14,15 @@
 </p>
 <p align="left">
   💡 I study this technologies in my free time: 
-  <strong>HTML5, CCS3, React, Node.js and Next.js.</strong>
+  <strong>GoLang, SQL, Node.js and Next.js.</strong>
+</p>
+<p align="left">
+  🔙 I have used it in previous works: 
+  <strong>HTML5, CCS3, React, JavaScript and Bootstrap</strong>
 </p>
 <p align="left">
   🔧 And I usually use these tools: 
-  <strong>VSCode, Git, GitHub, Figma and Postman.</strong>
+  <strong>VSCode, Git, GitHub, DBeaver and Postman.</strong>
 </p>
 <p align="left">
   Feel free to contact me:
