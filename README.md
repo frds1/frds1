@@ -31,7 +31,7 @@
 <div align-itens="center">
 <a href="mailto:feliperogerio.ti@gmail.com" alt="Gmail">
 <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-email.png" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/feliperogeriods" alt="Linkedin">
+<a href="https://www.linkedin.com/in/feliperogs" alt="Linkedin">
 <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-linkedin.png" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5588999214274&text=Olá%20Felipe" alt="WhatsApp">
 <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-whatsapp.png" height="40" width="40" /></a>
