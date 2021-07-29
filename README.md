@@ -37,5 +37,7 @@
 <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-whatsapp.png" height="40" width="40" /></a>
 <a href="https://www.instagram.com/felipe_rogerio/" alt="Instagram">
 <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-instagram.png" height="40" width="40" /></a>
+ <a href="https://t.me/feliperogeriods" alt="Telegram">
+<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-telegram.png" height="40" width="40" /></a> 
 </div>
 </p>
