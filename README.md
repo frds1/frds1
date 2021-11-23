@@ -5,12 +5,8 @@
   At the moment, I'm taking my first steps as a backend on Brisanet Telecommunications.
 </p>
 <p align="left">
-  🖥️ Technologies that I usually work with: 
+  🖥️ Technologies I use daily: 
   <strong>GoLang and Postgresql.</strong>
-</p>
-<p align="left">
-  🎓 I also studied these technologies at graduation: 
-  <strong>C, C#, Java, PHP and MySQL.</strong>
 </p>
 <p align="left">
   🔙 I have used it in previous works: 
@@ -21,12 +17,12 @@
   <strong>VSCode, Git, GitHub, DBeaver and Postman.</strong>
 </p>
 <p align="left">
-  Feel free to contact me:
+  Feel free to contact me by clicking on the icon below.:
 </p>
 <p align="left">
 <div align-itens="center">
 <a href="https://github.com/frds1/portfolio" alt="Portfólio">
-<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/programador.png" height="100" width="100" /></a>
+<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/programador.png" height="150" width="150" /></a>
 </div>
 </p>
 
