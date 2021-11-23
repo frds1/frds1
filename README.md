@@ -17,7 +17,7 @@
   <strong>VSCode, Git, GitHub, DBeaver and Postman.</strong>
 </p>
 <p align="left">
-  Feel free to contact me by clicking on the icon below.:
+  Feel free to contact me by clicking on the <strong>icon below</strong>:
 </p>
 <p align="left">
 <div align-itens="center">
