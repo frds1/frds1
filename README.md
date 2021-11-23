@@ -6,15 +6,11 @@
 </p>
 <p align="left">
   🖥️ Technologies that I usually work with: 
-  <strong>Go, Postgresql and Docker.</strong>
+  <strong>GoLang and Postgresql.</strong>
 </p>
 <p align="left">
   🎓 I also studied these technologies at graduation: 
   <strong>C, C#, Java, PHP and MySQL.</strong>
-</p>
-<p align="left">
-  💡 I study this technologies in my free time: 
-  <strong>GoLang, SQL, Node.js and Next.js.</strong>
 </p>
 <p align="left">
   🔙 I have used it in previous works: 
@@ -29,15 +25,9 @@
 </p>
 <p align="left">
 <div align-itens="center">
-<a href="mailto:feliperogerio.ti@gmail.com" alt="Gmail">
-<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-email.png" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/feliperogs" alt="Linkedin">
-<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-linkedin.png" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=5588999214274&text=Olá%20Felipe" alt="WhatsApp">
-<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-whatsapp.png" height="40" width="40" /></a>
-<a href="https://www.instagram.com/felipe_rogerio/" alt="Instagram">
-<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-instagram.png" height="40" width="40" /></a>
- <a href="https://t.me/feliperogeriods" alt="Telegram">
-<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/icon-telegram.png" height="40" width="40" /></a> 
+<a href="https://github.com/frds1/portfolio" alt="Portfólio">
+<img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/programador.png" height="100" width="100" /></a>
 </div>
 </p>
+
+[![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=frds1&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
