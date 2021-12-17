@@ -21,7 +21,7 @@
 </p>
 <p align="left">
 <div align-itens="center">
-<a href="https://github.com/frds1/portfolio" alt="Portfólio">
+<a href="https://frds1.github.io/portfolio/" alt="Portfólio">
 <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/programador.png" height="150" width="150" /></a>
 </div>
 </p>
