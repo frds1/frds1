@@ -5,10 +5,10 @@ stats](https://github-readme-stats.vercel.app/api?username=frds1&count_private=t
 
 <p align="left">
   🖥️ Technologies i use daily:<br><br>
-  <img src="frds1/Icons/golang.png" height="50" width="50" />
-  <img src="frds1/Icons/psql.png" height="50" width="50" />
-  <img src="frds1/Icons/git.png" height="50" width="50" />
-  <img src="frds1/Icons/postman.png" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/golang.png" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/psql.png" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/git.png" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/frds1/frds1/main/Icons/postman.png" height="50" width="50" />
 </p>
 <p align="left">
   Feel free to contact me by clicking on the <strong>icon below</strong>:
